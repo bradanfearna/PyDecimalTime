@@ -1,5 +1,5 @@
 # PyDecimalTime
-Decimal time, the only logical time, in Python, with a GUI using Kivy.
+[Decimal time] (https://en.wikipedia.org/wiki/Decimal_time), the only logical time, in Python, with a GUI using Kivy.
 
 Here's what it looks like:
 
